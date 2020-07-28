@@ -1,0 +1,12 @@
+2020-07-28 18:37:23,639  INFO [main] ZeroBankingLogin:27 - hit the url
+2020-07-28 18:37:26,001 DEBUG [main] ZeroBankingLogin:38 - username is enterted
+2020-07-28 18:37:26,145 DEBUG [main] ZeroBankingLogin:40 - Password is enterted
+2020-07-28 18:37:26,829  INFO [main] ZeroBankingLogin:42 - hit the submitt btn
+2020-07-28 18:37:26,865 ERROR [main] ZeroBankingLogin:47 - This is error log
+2020-07-28 18:37:32,375  INFO [main] ZeroBankingLogin:27 - hit the url
+2020-07-28 18:38:22,078  INFO [main] ZeroBankingLogin:27 - hit the url
+2020-07-28 18:38:24,486 DEBUG [main] ZeroBankingLogin:38 - username is enterted
+2020-07-28 18:38:24,650 DEBUG [main] ZeroBankingLogin:40 - Password is enterted
+2020-07-28 18:38:25,408  INFO [main] ZeroBankingLogin:42 - hit the submitt btn
+2020-07-28 18:38:25,475 ERROR [main] ZeroBankingLogin:47 - This is error log
+2020-07-28 18:38:30,974  INFO [main] ZeroBankingLogin:27 - hit the url

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18939" started-at="2020-07-28T18:38:15 EDT" finished-at="2020-07-28T18:38:34 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18939" started-at="2020-07-28T18:38:15 EDT" finished-at="2020-07-28T18:38:34 EDT">
+      <class name="com.qa.testcases.ZeroBankingLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="setup" is-config="true" duration-ms="9028" started-at="2020-07-28T18:38:15 EDT" finished-at="2020-07-28T18:38:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="verifyLogin" duration-ms="1163" started-at="2020-07-28T18:38:24 EDT" finished-at="2020-07-28T18:38:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="closeBrowser" is-config="true" duration-ms="908" started-at="2020-07-28T18:38:25 EDT" finished-at="2020-07-28T18:38:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="setup" is-config="true" duration-ms="6747" started-at="2020-07-28T18:38:26 EDT" finished-at="2020-07-28T18:38:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogo()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="verifyLogo" duration-ms="154" started-at="2020-07-28T18:38:33 EDT" finished-at="2020-07-28T18:38:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.ZeroBankingLogin@74a10858]" name="closeBrowser" is-config="true" duration-ms="846" started-at="2020-07-28T18:38:33 EDT" finished-at="2020-07-28T18:38:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testcases.ZeroBankingLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
